@@ -1,0 +1,236 @@
+@model UmbiloTemple.Models.TempleInfo
+@{
+    ViewData["Title"] = "About - Our Journey";
+}
+
+<!-- AOS Animation Library -->
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet" />
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        AOS.init({
+            duration: 1000,
+            once: true,
+            offset: 100
+        });
+    });
+</script>
+
+<!-- HEADER -->
+<section class="text-center py-5" style="background-color:#06281e;" data-aos="fade-down">
+    <div class="container">
+        <h1 class="text-yellow fw-bold mb-3">About Umbilo Temple</h1>
+        <p class="lead">A sacred sanctuary uniting faith, culture, and community for over a century.</p>
+    </div>
+</section>
+
+<!-- TEMPLE STORY -->
+<section class="py-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 mb-4 mb-md-0" data-aos="fade-right">
+                <img src="/images/templefront.jpg" class="img-fluid rounded shadow-lg" alt="Umbilo Temple">
+                <p class="text-center text-muted small mt-2">Front Elevation — Umbilo Shree Ambalavaanar Alayam</p>
+            </div>
+            <div class="col-md-6" data-aos="fade-left">
+                <h3 class="text-yellow mb-3">Our Legacy</h3>
+                <p>
+                    Founded in the late 1800s, the Umbilo Shree Ambalavaanar Alayam stands as a cornerstone of Durban’s spiritual and cultural legacy.
+                    It has served as a cornerstone of the Durban community, preserving sacred traditions and
+                    fostering spiritual harmony among generations of devotees.
+                </p>
+                <p>
+                    Declared a <span class="fw-bold text-yellow">National Monument on 22 February 1980</span>,
+                    the temple has become a beacon of faith and culture. Its 140th-year celebration marks
+                    not just longevity, but a continuous journey of devotion and service.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MISSION & VISION -->
+<section class="py-5 bg-darker text-center" data-aos="zoom-in">
+    <div class="container">
+        <h2 class="text-yellow mb-4">Our Mission & Vision</h2>
+        <div class="row g-4">
+            <div class="col-md-6" data-aos="fade-up">
+                <div class="card p-4 h-100 bg-deepgreen text-white border-0 shadow-sm">
+                    <i class="fas fa-praying-hands fa-3x text-yellow mb-3"></i>
+                    <h4>Mission</h4>
+                    <p>To uphold the sacred teachings, cultural heritage, and community spirit of Sanatan Dharma through
+                       inclusive worship, charity, and education.</p>
+                </div>
+            </div>
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
+                <div class="card p-4 h-100 bg-deepgreen text-white border-0 shadow-sm">
+                    <i class="fas fa-eye fa-3x text-yellow mb-3"></i>
+                    <h4>Vision</h4>
+                    <p>To create a spiritually enriched, united community rooted in faith, service, and compassion —
+                       guiding future generations toward peace and devotion.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- TIMELINE -->
+<section class="py-5 position-relative">
+    <div class="container">
+        <h2 class="text-center text-yellow fw-bold mb-5" data-aos="fade-down">Our Heritage Journey</h2>
+
+        <!-- UMBILO 1 -->
+        <div class="timeline-item mb-5" data-aos="fade-up">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <img src="/images/history/umbilo1.jpg" class="img-fluid rounded shadow-lg mb-3" alt="Umbilo Temple Original 1869" />
+                    <p class="text-center small text-muted fst-italic">The original Shree Subramaniar Alayam, late 1800s.</p>
+                </div>
+                <div class="col-md-6">
+                    <h3 class="text-yellow fw-bold">Umbilo 1 — The Divine Beginning (1869–1903)</h3>
+                    <p>
+                        Around <strong>1869</strong>, two Hindu youths swimming in the Umbilo River discovered a rusty spear resembling the “Vel” of <strong>Shree Shiva Subramaniar</strong> —
+                        believed to be a divine sign. Inspired by this event, <strong>Mr. Shunmugam Singaravloo Pather</strong> established the first community temple at that sacred spot.
+                    </p>
+                    <p>
+                        The original temple, made of reeds and straw, became a center of devotion and culture. Officially named
+                        <strong>Shree Subramaniar Alayam</strong>, it was handed to the community in 1899 by Mr. & Mrs. S. S. Pather. 
+                        Sadly, the temple and surrounding areas were destroyed by floods in <strong>1903</strong>.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-line my-5 mx-auto"></div>
+
+        <!-- UMBILO 2 -->
+        <div class="timeline-item mb-5" data-aos="fade-up">
+            <div class="row align-items-center flex-md-row-reverse">
+                <div class="col-md-6">
+                    <img src="/images/history/umbilo2.jpg" class="img-fluid rounded shadow-lg mb-3" alt="Umbilo Temple Rebuild 1905" />
+                    <p class="text-center small text-muted fst-italic">Devotees at the rebuilt temple, circa 1930s.</p>
+                </div>
+                <div class="col-md-6">
+                    <h3 class="text-yellow fw-bold">Umbilo 2 — Rebuilding Faith (1905–1940s)</h3>
+                    <p>
+                        After the devastating floods, <strong>Mr. S. S. Pather</strong> and the community rebuilt a new temple in 1905 on higher ground near the Umbilo River, assisted by
+                        <strong>Mr. Kistappa Reddy</strong>, who had designed the Ganesha Temple in Mount Edgecombe.
+                    </p>
+                    <p>
+                        The new temple, called <strong>Umbilo Shree Ambalaavanar Alayam</strong>, attracted thousands of devotees. However, repeated flooding and unstable soil caused damage
+                        over the years. Despite this, the temple remained a strong spiritual center until expropriation by the <strong>Railways & Harbours Administration</strong> in the 1930s.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-line my-5 mx-auto"></div>
+
+        <!-- UMBILO 3 -->
+        <div class="timeline-item mb-5" data-aos="fade-up">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <img src="/images/history/umbilo3.jpg" class="img-fluid rounded shadow-lg mb-3" alt="Modern Umbilo Temple" />
+                    <p class="text-center small text-muted fst-italic">Modern Umbilo Shree Ambalavaanar Alayam, Cato Manor.</p>
+                </div>
+                <div class="col-md-6">
+                    <h3 class="text-yellow fw-bold">Umbilo 3 — A Temple Reborn (1944–Present)</h3>
+                    <p>
+                        Refusing to let faith fade, the temple was re-established in <strong>1944</strong> at its present site in <strong>Cato Manor</strong>,
+                        on land donated by <strong>Moonsamy Perumal Appovoo</strong> and the Pather family. Construction began under <strong>Mr. Kistappa Reddy</strong>’s design and was completed in 1949.
+                    </p>
+                    <p>
+                        Now known as the <strong>Umbilo Shree Ambalavaanar Alayam</strong>, it remains a beacon of devotion, housing three main shrines —
+                        for Lord Shiva (Nadaraja), Goddess Draupadi, and Goddess Mariamman.  
+                        Declared a <strong>National Monument in 1980</strong>, the temple continues to inspire generations across South Africa and abroad.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- OUR STORY -->
+<section class="py-5 bg-darker text-white" data-aos="fade-up">
+    <div class="container">
+        <div class="row align-items-start g-5">
+            <div class="col-lg-4" data-aos="zoom-in">
+                <div class="card bg-deepgreen border-0 shadow-sm p-3">
+                    <h4 class="text-yellow fw-bold mb-3">Temple Architecture</h4>
+                    <img src="/images/history/ourstory.jpg" alt="Temple History & Plans" class="img-fluid rounded shadow" />
+                    <p class="small text-muted mt-2">
+                        Architectural layouts of the Ambalavaanar, Draupadi, and Mariammen Alayams — showcasing the evolution of sacred temple design.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-lg-8" data-aos="fade-left">
+                <h2 class="text-yellow fw-bold mb-3">Our Story — Umbilo Shree Ambalavaanar Alayam</h2>
+                <p>
+                    Established in <strong>1875</strong>, the Umbilo Shree Ambalavaanar Alayam is revered as the <strong>first public Hindu temple on the African continent</strong>.
+                    Declared a <strong>National Monument on 22 February 1980</strong>, the Alayam continues to serve as a beacon of faith, culture, and community.
+                </p>
+                <p>
+                    Historical records describe how the temple’s origins trace back to <strong>1869</strong>, when two Hindu youths discovered a spear resembling the “Vel” of Lord Shiva Subramaniar in the Umbilo River.
+                    This divine omen led <strong>Mr. Shunmugam Singaravloo Pather</strong> to establish the first temple, naming it the <strong>Shree Subramaniar Alayam</strong>.
+                </p>
+                <p>
+                    Over the years, the temple has faced many challenges — floods, relocations, and expropriations — yet it has always risen stronger.
+                    The temple was later re-established at its present site in <strong>Cato Manor</strong>, where it stands today as the <strong>Umbilo Shree Ambalavaanar Alayam</strong>,
+                    known affectionately as the “Cato Manor Second River Temple”.
+                </p>
+                <p>
+                    Its main shrines are dedicated to <strong>Lord Shiva (Nadaraja)</strong>, <strong>Goddess Draupadi</strong>, and <strong>Goddess Mariammen</strong>,
+                    with intricate sculptures and colorful depictions of deities and temple guardians adorning its sacred domes.
+                </p>
+                <blockquote class="blockquote text-yellow mt-4" data-aos="fade-up">
+                    “This temple is the first to be founded by the Alayam and an honest attempt is made to record its illustrious history.”
+                </blockquote>
+                <p class="small text-muted">*(Launch of the temple’s historical brochure took place on 22 November 2015.)*</p>
+            </div>
+        </div>
+
+        <div class="row mt-5 g-3" data-aos="fade-up">
+            <div class="col-md-12">
+                <h4 class="text-yellow text-center fw-bold mb-3">A Journey Through Time</h4>
+            </div>
+            <div class="col-md-12">
+                <img src="/images/history/ourstory.jpg" alt="Umbilo Temple Historical Collage" class="img-fluid rounded shadow-lg" />
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CALL TO ACTION -->
+<section class="py-5 bg-deepgreen text-center" data-aos="fade-up">
+    <div class="container">
+        <h3 class="text-yellow fw-bold">Join Our Journey</h3>
+        <p class="lead">Be part of our heritage. Visit us, participate in our events, or contribute to our community mission.</p>
+        <a href="/Events" class="btn btn-temple mt-2">See Upcoming Events</a>
+    </div>
+</section>
+
+<style>
+    .timeline { position: relative; }
+    .timeline-line {
+        width: 4px;
+        height: 60px;
+        background-color: var(--yellow);
+    }
+    .timeline-item img {
+        border: 2px solid var(--yellow);
+        transition: transform 0.3s ease;
+    }
+    .timeline-item img:hover { transform: scale(1.03); }
+    .timeline-item p { color: #d7d7d7; line-height: 1.6; }
+    .blockquote {
+        font-style: italic;
+        border-left: 4px solid var(--yellow);
+        padding-left: 10px;
+    }
+    @@media (max-width: 768px) {
+        .timeline-line { height: 40px; }
+        .col-lg-4 { order: 2; }
+        .col-lg-8 { order: 1; }
+    }
+</style>

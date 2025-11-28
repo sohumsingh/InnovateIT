@@ -1,0 +1,46 @@
+@model UmbiloTemple.Models.Event
+@{
+    ViewData["Title"] = "Add Event";
+}
+
+<section class="text-center py-5" style="background-color:#06281e;">
+    <div class="container">
+        <h1 class="text-yellow fw-bold mb-3">Add New Event</h1>
+        <p class="lead">Create and publish a new temple event below.</p>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container col-md-8">
+        <div class="card bg-deepgreen border-0 shadow-sm p-4">
+            <form asp-action="Add" enctype="multipart/form-data" method="post">
+                <div class="mb-3">
+                    <label class="form-label text-yellow">Event Title</label>
+                    <input asp-for="Title" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label text-yellow">Description</label>
+                    <textarea asp-for="Description" rows="3" class="form-control" required></textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label text-yellow">Event Date</label>
+                    <input asp-for="Date" type="datetime-local" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label text-yellow">Location</label>
+                    <input asp-for="Location" class="form-control" required />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label text-yellow">Image</label>
+                    <input type="file" name="imageFile" class="form-control" accept="image/*" required />
+                </div>
+
+                <button type="submit" class="btn btn-temple w-100">Add Event</button>
+            </form>
+        </div>
+    </div>
+</section>

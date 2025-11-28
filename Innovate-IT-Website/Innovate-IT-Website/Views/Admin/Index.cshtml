@@ -1,0 +1,63 @@
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<section class="text-center py-5" style="background-color:#06281e;">
+    <div class="container">
+        <h1 class="text-yellow fw-bold mb-3">Admin Dashboard</h1>
+        <p class="lead">Welcome back, Admin! Manage the temple’s content from here.</p>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        <div class="row g-4 justify-content-center">
+
+            <!-- Manage Events -->
+            <div class="col-md-4">
+                <div class="card text-center h-100 shadow-lg border-0 bg-darker">
+                    <div class="card-body">
+                        <i class="fas fa-calendar-alt fa-3x text-yellow mb-3"></i>
+                        <h4 class="text-yellow">Manage Events</h4>
+                        <p class="small">Add, update, or delete upcoming temple events.</p>
+                        <a href="/AdminEvents" class="btn btn-temple w-100 mt-2">Go to Events</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Manage Gallery -->
+            <div class="col-md-4">
+                <div class="card text-center h-100 shadow-lg border-0 bg-darker">
+                    <div class="card-body">
+                        <i class="fas fa-images fa-3x text-yellow mb-3"></i>
+                        <h4 class="text-yellow">Manage Gallery</h4>
+                        <p class="small">Upload and organize images for the temple’s gallery.</p>
+                        <a href="/AdminGallery" class="btn btn-temple w-100 mt-2">Go to Gallery</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View Site -->
+            <div class="col-md-4">
+                <div class="card text-center h-100 shadow-lg border-0 bg-darker">
+                    <div class="card-body">
+                        <i class="fas fa-globe fa-3x text-yellow mb-3"></i>
+                        <h4 class="text-yellow">View Website</h4>
+                        <p class="small">Return to the public website to preview updates.</p>
+                        <a href="/" class="btn btn-outline-light w-100 mt-2">Visit Site</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="py-5 text-center">
+    <div class="container">
+        <h5 class="text-yellow fw-bold mb-3">Admin Info</h5>
+        <p><i class="fas fa-user-circle text-yellow"></i> @Context.Session.GetString("UserEmail")</p>
+        <p><i class="fas fa-shield-alt text-yellow"></i> Role: <span class="fw-bold">ADMIN</span></p>
+        <a href="/Account/Logout" class="btn btn-outline-danger mt-3"><i class="fas fa-sign-out-alt me-1"></i> Logout</a>
+    </div>
+</section>

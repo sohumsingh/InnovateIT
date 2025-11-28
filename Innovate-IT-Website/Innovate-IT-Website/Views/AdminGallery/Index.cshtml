@@ -1,0 +1,45 @@
+@model IEnumerable<UmbiloTemple.Models.GalleryImage>
+@{
+    ViewData["Title"] = "Manage Gallery";
+}
+
+<section class="py-5 text-center" style="background-color:#06281e;">
+    <div class="container">
+        <h1 class="text-yellow fw-bold mb-3">Manage Gallery Images</h1>
+        <p class="lead">Upload, view, or remove temple gallery photos.</p>
+        <a href="/AdminGallery/Upload" class="btn btn-temple mt-3"><i class="fas fa-upload me-2"></i>Upload New Image</a>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container">
+        @if (Model != null && Model.Any())
+        {
+            <div class="row g-4">
+                @foreach (var img in Model)
+                {
+                    <div class="col-md-3">
+                        <div class="card h-100 shadow-sm border-0">
+                            <img src="@img.ImageUrl" alt="@img.Title" class="card-img-top" style="height:200px; object-fit:cover;">
+                            <div class="card-body text-center">
+                                <h6 class="text-yellow">@img.Title</h6>
+                                <p class="small">@img.Description</p>
+                                <a href="/AdminGallery/Delete?id=@img.Id" class="btn btn-sm btn-danger"
+                                   onclick="return confirm('Delete this image?')">
+                                   <i class="fas fa-trash"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+        else
+        {
+            <div class="text-center">
+                <i class="fas fa-images fa-3x text-yellow mb-3"></i>
+                <h4>No gallery images uploaded yet.</h4>
+            </div>
+        }
+    </div>
+</section>

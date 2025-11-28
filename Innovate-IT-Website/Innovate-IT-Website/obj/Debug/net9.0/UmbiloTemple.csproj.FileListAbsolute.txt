@@ -1,0 +1,376 @@
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\appsettings.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.staticwebassets.runtime.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.staticwebassets.endpoints.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.exe
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.deps.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.runtimeconfig.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.pdb
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.CommonProtos.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.Gax.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.Gax.Grpc.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Firestore.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Firestore.V1.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Location.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.LongRunning.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Auth.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.Linq.Async.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.Management.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.csproj.AssemblyReference.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.AssemblyInfoInputs.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.AssemblyInfo.cs
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.csproj.CoreCompileInputs.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.RazorAssemblyInfo.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.RazorAssemblyInfo.cs
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\bundle\UmbiloTemple.styles.css
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\projectbundle\UmbiloTemple.bundle.scp.css
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\zugtc26bqv-b9sayid5wm.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\q0lubgffjk-61n19gt1b8.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\4nud371j73-xtxxf3hu2r.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cw9z4c9de1-bqjiyaj88i.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\71fd2fl81v-c2jlpeoesf.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\g3wrd34m6o-erw9l3u2r3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\0vl50g9ybd-aexeepp0ev.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ig5p245tgq-d7shbmvgxk.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\thv0ko4j2g-ausgxo2sd3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\au9y3km5rr-k8d9w2qqmf.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\v5la9spu6c-cosvhxvwiu.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\opcfwcarg7-ub07r2b239.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vthkaymg2h-fvhpjtyr6v.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\24rg2v648m-b7pk76d08c.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\p4q73dq4yq-fsbi9cje9m.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\q84m8up5xs-rzd6atqjts.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cz18mic0h5-ee0r1s7dh0.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\uf6hdrf3hw-dxx9fxp4il.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\jeydlzm5lb-jd9uben2k1.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\irosleoprb-khv3u5hwcm.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wylkkg1d63-r4e9w2rdcm.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\9yvdbssyq5-lcd1t2u6c8.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\hqjvqab9rv-c2oey78nd0.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\fzvwcqkp8j-tdbxkamptv.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\fccuazpfg3-j5mq2jizvt.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\3wb0cxe6z7-06098lyss8.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\06vaum0dgj-nvvlpmu67g.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\b1txewpuz9-s35ty4nyc5.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\akzysdjd4b-pj5nd1wqec.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\5gzo85lu6t-46ein0sx1k.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\z78ong9fzv-v0zj4ognzu.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\mvpfbrfcut-37tfw0ft22.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\507jsumva4-hrwsygsryq.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\azjftr8ftv-pk9g2wxc8p.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\8xotyzfdjq-ft3s53vfgj.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ywurnmsap8-6cfz1n2cew.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\scsseqi3pr-6pdc2jztkx.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vpov99na1e-493y06b0oq.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\b4k129zlro-iovd86k7lj.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\114ffju8hp-vr1egmr9el.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\5x6t10px76-kbrnm935zg.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cpm5d0g9by-jj8uyg4cgr.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ipw4p2k3h3-y7v9cxd14o.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\tks78vmskh-notf2xhcfb.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\qa6k2ekm9f-h1s4sie4z3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\051jhkuavs-63fj8s7r0e.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wa1y8w9gvv-0j3bgjxly4.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wn7zvojtr0-47otxtyo56.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\xn50ad556q-4v8eqarkd7.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\s46s9qmxmf-356vix0kms.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\2trceqr9u5-83jwlth58m.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\jxj31m00d7-mrlpezrjn3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vd9jp4yf9r-lzl9nlhx6b.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\s72xvw9vmm-ag7o75518u.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\lv9ypj0s5b-x0q3zqp4vz.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\eihrsulgfu-0i3buxo5is.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\984tez5r2o-o1o13a6vjx.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ktho57t1zs-ttgo8qnofa.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\tx1qdt8zwf-2z0ns9nrw6.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ep8s30rhyj-muycvpuwrr.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\0myt7k0zaq-87fc7y1x7t.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\1it2bu8l8k-mlv21k5csn.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\qt69sdktp1-ad7c3cwmk2.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\a17t7u92iy-ad7c3cwmk2.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTe.7620717B.Up2Date
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\refint\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.pdb
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.genruntimeconfig.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\ref\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Firestore\temple-firebase-key.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\MailKit.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\MimeKit.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\z6kcjiq8nf-osxl6xbe28.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\appsettings.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Firestore\temple-firebase-key.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.staticwebassets.runtime.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.staticwebassets.endpoints.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.exe
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.deps.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.runtimeconfig.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.pdb
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.CommonProtos.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.Gax.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.Gax.Grpc.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Firestore.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Firestore.V1.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Location.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.LongRunning.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Auth.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\MailKit.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\MimeKit.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.Linq.Async.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.Management.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.csproj.AssemblyReference.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.AssemblyInfoInputs.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.AssemblyInfo.cs
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.csproj.CoreCompileInputs.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.RazorAssemblyInfo.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.RazorAssemblyInfo.cs
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\bundle\UmbiloTemple.styles.css
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\projectbundle\UmbiloTemple.bundle.scp.css
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\zugtc26bqv-b9sayid5wm.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\q0lubgffjk-61n19gt1b8.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\4nud371j73-xtxxf3hu2r.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cw9z4c9de1-bqjiyaj88i.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\71fd2fl81v-c2jlpeoesf.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\g3wrd34m6o-erw9l3u2r3.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\0vl50g9ybd-aexeepp0ev.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ig5p245tgq-d7shbmvgxk.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\thv0ko4j2g-ausgxo2sd3.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\au9y3km5rr-k8d9w2qqmf.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\v5la9spu6c-cosvhxvwiu.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\opcfwcarg7-ub07r2b239.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vthkaymg2h-fvhpjtyr6v.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\24rg2v648m-b7pk76d08c.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\p4q73dq4yq-fsbi9cje9m.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\q84m8up5xs-rzd6atqjts.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cz18mic0h5-ee0r1s7dh0.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\uf6hdrf3hw-dxx9fxp4il.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\jeydlzm5lb-jd9uben2k1.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\irosleoprb-khv3u5hwcm.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wylkkg1d63-r4e9w2rdcm.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\9yvdbssyq5-lcd1t2u6c8.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\hqjvqab9rv-c2oey78nd0.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\fzvwcqkp8j-tdbxkamptv.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\fccuazpfg3-j5mq2jizvt.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\3wb0cxe6z7-06098lyss8.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\06vaum0dgj-nvvlpmu67g.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\b1txewpuz9-s35ty4nyc5.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\akzysdjd4b-pj5nd1wqec.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\5gzo85lu6t-46ein0sx1k.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\z78ong9fzv-v0zj4ognzu.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\mvpfbrfcut-37tfw0ft22.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\507jsumva4-hrwsygsryq.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\azjftr8ftv-pk9g2wxc8p.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\8xotyzfdjq-ft3s53vfgj.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ywurnmsap8-6cfz1n2cew.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\scsseqi3pr-6pdc2jztkx.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vpov99na1e-493y06b0oq.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\b4k129zlro-iovd86k7lj.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\114ffju8hp-vr1egmr9el.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\5x6t10px76-kbrnm935zg.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cpm5d0g9by-jj8uyg4cgr.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ipw4p2k3h3-y7v9cxd14o.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\tks78vmskh-notf2xhcfb.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\qa6k2ekm9f-h1s4sie4z3.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\051jhkuavs-63fj8s7r0e.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wa1y8w9gvv-0j3bgjxly4.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wn7zvojtr0-47otxtyo56.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\xn50ad556q-4v8eqarkd7.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\s46s9qmxmf-356vix0kms.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\2trceqr9u5-83jwlth58m.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\jxj31m00d7-mrlpezrjn3.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vd9jp4yf9r-lzl9nlhx6b.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\s72xvw9vmm-ag7o75518u.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\lv9ypj0s5b-x0q3zqp4vz.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\eihrsulgfu-0i3buxo5is.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\984tez5r2o-o1o13a6vjx.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ktho57t1zs-ttgo8qnofa.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\tx1qdt8zwf-2z0ns9nrw6.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ep8s30rhyj-muycvpuwrr.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\0myt7k0zaq-87fc7y1x7t.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\1it2bu8l8k-mlv21k5csn.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\qt69sdktp1-ad7c3cwmk2.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\a17t7u92iy-ad7c3cwmk2.gz
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTe.7620717B.Up2Date
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\refint\UmbiloTemple.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.pdb
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.genruntimeconfig.cache
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\ref\UmbiloTemple.dll
+C:\Users\premc\source\repos\WIL\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\z6kcjiq8nf-4c4uuxd02b.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\appsettings.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Firestore\temple-firebase-key.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.staticwebassets.runtime.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.staticwebassets.endpoints.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.exe
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.deps.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.runtimeconfig.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\UmbiloTemple.pdb
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.CommonProtos.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.Gax.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Api.Gax.Grpc.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Firestore.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Firestore.V1.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Cloud.Location.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.LongRunning.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Auth.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\MailKit.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\MimeKit.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.Linq.Async.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\System.Management.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.csproj.AssemblyReference.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.AssemblyInfoInputs.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.AssemblyInfo.cs
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.csproj.CoreCompileInputs.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.RazorAssemblyInfo.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.RazorAssemblyInfo.cs
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\bundle\UmbiloTemple.styles.css
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\scopedcss\projectbundle\UmbiloTemple.bundle.scp.css
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\zugtc26bqv-b9sayid5wm.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\z6kcjiq8nf-4c4uuxd02b.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\q0lubgffjk-61n19gt1b8.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\4nud371j73-xtxxf3hu2r.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cw9z4c9de1-bqjiyaj88i.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\71fd2fl81v-c2jlpeoesf.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\g3wrd34m6o-erw9l3u2r3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\0vl50g9ybd-aexeepp0ev.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ig5p245tgq-d7shbmvgxk.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\thv0ko4j2g-ausgxo2sd3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\au9y3km5rr-k8d9w2qqmf.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\v5la9spu6c-cosvhxvwiu.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\opcfwcarg7-ub07r2b239.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vthkaymg2h-fvhpjtyr6v.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\24rg2v648m-b7pk76d08c.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\p4q73dq4yq-fsbi9cje9m.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\q84m8up5xs-rzd6atqjts.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cz18mic0h5-ee0r1s7dh0.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\uf6hdrf3hw-dxx9fxp4il.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\jeydlzm5lb-jd9uben2k1.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\irosleoprb-khv3u5hwcm.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wylkkg1d63-r4e9w2rdcm.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\9yvdbssyq5-lcd1t2u6c8.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\hqjvqab9rv-c2oey78nd0.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\fzvwcqkp8j-tdbxkamptv.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\fccuazpfg3-j5mq2jizvt.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\3wb0cxe6z7-06098lyss8.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\06vaum0dgj-nvvlpmu67g.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\b1txewpuz9-s35ty4nyc5.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\akzysdjd4b-pj5nd1wqec.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\5gzo85lu6t-46ein0sx1k.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\z78ong9fzv-v0zj4ognzu.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\mvpfbrfcut-37tfw0ft22.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\507jsumva4-hrwsygsryq.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\azjftr8ftv-pk9g2wxc8p.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\8xotyzfdjq-ft3s53vfgj.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ywurnmsap8-6cfz1n2cew.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\scsseqi3pr-6pdc2jztkx.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vpov99na1e-493y06b0oq.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\b4k129zlro-iovd86k7lj.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\114ffju8hp-vr1egmr9el.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\5x6t10px76-kbrnm935zg.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\cpm5d0g9by-jj8uyg4cgr.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ipw4p2k3h3-y7v9cxd14o.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\tks78vmskh-notf2xhcfb.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\qa6k2ekm9f-h1s4sie4z3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\051jhkuavs-63fj8s7r0e.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wa1y8w9gvv-0j3bgjxly4.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\wn7zvojtr0-47otxtyo56.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\xn50ad556q-4v8eqarkd7.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\s46s9qmxmf-356vix0kms.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\2trceqr9u5-83jwlth58m.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\jxj31m00d7-mrlpezrjn3.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\vd9jp4yf9r-lzl9nlhx6b.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\s72xvw9vmm-ag7o75518u.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\lv9ypj0s5b-x0q3zqp4vz.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\eihrsulgfu-0i3buxo5is.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\984tez5r2o-o1o13a6vjx.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ktho57t1zs-ttgo8qnofa.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\tx1qdt8zwf-2z0ns9nrw6.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\ep8s30rhyj-muycvpuwrr.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\0myt7k0zaq-87fc7y1x7t.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\1it2bu8l8k-mlv21k5csn.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\qt69sdktp1-ad7c3cwmk2.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\compressed\a17t7u92iy-ad7c3cwmk2.gz
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTe.7620717B.Up2Date
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\refint\UmbiloTemple.dll
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.pdb
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\UmbiloTemple.genruntimeconfig.cache
+C:\Users\sakin\OneDrive\Desktop\PROG 2ND SEM\UmbiloTempleTwo\UmbiloTemple\UmbiloTemple\obj\Debug\net9.0\ref\UmbiloTemple.dll

@@ -1,0 +1,65 @@
+@model UmbiloTemple.Models.DonationInfo
+@{
+    ViewData["Title"] = "Donations";
+}
+
+<!-- Header Section -->
+<section class="text-center py-5" style="background-color:#06281e;">
+    <div class="container">
+        <h1 class="text-yellow fw-bold mb-3">Support the Umbilo Temple</h1>
+        <p class="lead">Your kind contributions help us preserve our spiritual home and serve the community.</p>
+    </div>
+</section>
+
+<!-- Donation Info Section -->
+<section class="py-5 text-center">
+    <div class="container" style="max-width:600px;">
+        <div class="card shadow-lg p-4 border-0">
+            <i class="fas fa-hand-holding-heart fa-3x text-yellow mb-3"></i>
+            <h4 class="text-yellow mb-3">Banking Details</h4>
+            <p><strong>Bank:</strong> @Model.BankName</p>
+            <p><strong>Account Holder:</strong> @Model.AccountHolder</p>
+            <p><strong>Account Number:</strong> @Model.AccountNumber</p>
+            <p><strong>Branch Code:</strong> @Model.BranchCode</p>
+            <p><strong>Reference:</strong> @Model.Reference</p>
+            <hr />
+            <p class="small text-muted">Please use the reference when making EFT payments.</p>
+        </div>
+
+        <div class="mt-4">
+            <h5 class="text-yellow">Other Ways to Help</h5>
+            <p>Volunteer, sponsor an event, or donate towards temple maintenance.</p>
+            <a href="/Contact" class="btn btn-temple">Get in Touch</a>
+        </div>
+    </div>
+</section>
+
+<!-- Impact Section -->
+<section class="py-5 bg-darker text-center">
+    <div class="container">
+        <h2 class="text-yellow mb-4">Your Support Makes a Difference</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card p-4 h-100">
+                    <i class="fas fa-school fa-2x text-yellow mb-3"></i>
+                    <h5>Education</h5>
+                    <p>Helps fund cultural and spiritual education for youth and devotees.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card p-4 h-100">
+                    <i class="fas fa-hands-helping fa-2x text-yellow mb-3"></i>
+                    <h5>Community Service</h5>
+                    <p>Supports outreach programs and charitable work across Durban.</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card p-4 h-100">
+                    <i class="fas fa-praying-hands fa-2x text-yellow mb-3"></i>
+                    <h5>Preservation</h5>
+                    <p>Assists in maintaining our National Monument and temple facilities.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

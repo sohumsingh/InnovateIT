@@ -1,0 +1,41 @@
+@{
+    ViewData["Title"] = "Login";
+}
+
+<section class="py-5 text-center" style="background-color:#06281e;">
+    <div class="container">
+        <h1 class="text-yellow fw-bold mb-3">Admin / User Login</h1>
+        <p class="lead">Log in to access temple administration or your member profile.</p>
+    </div>
+</section>
+
+<section class="py-5">
+    <div class="container" style="max-width:450px;">
+        <div class="card p-4 shadow-lg border-0">
+            <form method="post" action="/Account/Login">
+                <div class="mb-3 text-start">
+                    <label class="form-label">Email</label>
+                    <input type="email" name="email" class="form-control" placeholder="Enter your email" required />
+                </div>
+                <div class="mb-3 text-start">
+                    <label class="form-label">Password</label>
+                    <input type="password" name="password" class="form-control" placeholder="Enter your password" required />
+                </div>
+                <button type="submit" class="btn btn-temple w-100 mt-3">Login</button>
+
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger mt-3">@ViewBag.Error</div>
+                }
+                @if (TempData["Success"] != null)
+                {
+                    <div class="alert alert-success mt-3">@TempData["Success"]</div>
+                }
+            </form>
+
+            <div class="text-center mt-3">
+                <p class="small">Don’t have an account? <a href="/Account/Register" class="text-yellow">Register here</a>.</p>
+            </div>
+        </div>
+    </div>
+</section>
