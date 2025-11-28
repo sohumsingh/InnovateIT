@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="saffron">#FF9933</color>
+    
+    <!-- Primary palette inspired by provided reference (warm saffron/orange) -->
+    <color name="temple_gold">#FFA726</color>
+    <color name="temple_gold_light">#FFCC80</color>
+    <color name="temple_gold_dark">#FB8C00</color>
+    <color name="temple_yellow">#FFB74D</color>
+    
+    <color name="temple_green">#1B5E20</color>
+    <color name="temple_green_dark">#1B5E20</color>
+    <color name="temple_green_light">#1B5E20</color>
+    
+    <color name="temple_orange">#FF8F00</color>
+    <color name="temple_orange_dark">#EF6C00</color>
+    
+    <!-- Extended palette -->
+    <color name="temple_red">#C62828</color>
+    <color name="temple_red_dark">#8E0000</color>
+    <color name="temple_amber">#F9A825</color>
+    <color name="temple_amber_dark">#C17900</color>
+    <color name="temple_blue">#1565C0</color>
+    <color name="temple_blue_dark">#0D47A1</color>
+    
+    <!-- UI Colors -->
+    <color name="background_gradient_start">#FFB74D</color>
+    <color name="background_gradient_end">#FF8F00</color>
+    <color name="button_primary">@color/temple_gold</color>
+    <color name="button_text">#000000</color>
+    <color name="text_primary_light">#FFFFFF</color>
+    
+    <!-- High-contrast text colors -->
+    <color name="text_on_bg">#000000</color>
+    <color name="text_secondary_on_bg">#444444</color>
+    
+    <!-- Semantic button tints -->
+    <color name="button_success">@color/temple_green</color>
+    <color name="button_danger">@color/temple_red</color>
+    <color name="button_warning">@color/temple_amber</color>
+    <color name="button_info">@color/temple_blue</color>
+    <color name="temple_grey">#9E9E9E</color>
+    <color name="button_neutral">@color/temple_grey</color>
+</resources>

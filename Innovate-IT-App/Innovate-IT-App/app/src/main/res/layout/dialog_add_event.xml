@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etEventTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Event Title"
+        android:inputType="text"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/etEventDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Description"
+        android:inputType="textMultiLine"
+        android:minLines="2"
+        android:layout_marginBottom="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="8dp">
+
+        <Button
+            android:id="@+id/btnSelectDate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Select Date"
+            android:layout_marginEnd="4dp" />
+
+        <Button
+            android:id="@+id/btnSelectTime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Select Time"
+            android:layout_marginStart="4dp" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etEventLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Location"
+        android:inputType="text"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/etEventRequirements"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Requirements"
+        android:inputType="textMultiLine"
+        android:layout_marginBottom="8dp" />
+
+    <EditText
+        android:id="@+id/etEventDressCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Dress Code"
+        android:inputType="text"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event Category"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp" />
+
+    <Spinner
+        android:id="@+id/spinnerCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp" />
+
+    <CheckBox
+        android:id="@+id/cbIsFirewalking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Is this a Firewalking event?" />
+</LinearLayout>

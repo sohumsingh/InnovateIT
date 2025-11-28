@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UmbiloTempleFrontEnd</string>
+    
+    <!-- Google Sign-In (from google-services.json) -->
+    <string name="default_web_client_id">209788930619-3j2qat6mqkjalrjua13jearbhtdhojn8.apps.googleusercontent.com</string>
+    
+    <!-- FAQ Answers -->
+    <string name="faq_donations_answer">Open the Donations screen from Home. You\'ll see bank account details with copy buttons for the account number and branch code.</string>
+    <string name="faq_events_answer">Open the Events screen from the bottom navigation. The Home screen also highlights the next upcoming event.</string>
+    <string name="faq_booking_how_answer">Go to the Bookings screen from bottom navigation. Enter details (event/service, date, time, contact) and submit.</string>
+    <string name="faq_booking_pending_answer">Pending means your booking request is waiting for admin review. You\'ll see an admin message after it is reviewed.</string>
+    <string name="faq_uploads_how_answer">Open the Documents screen. Use \"Upload Document\" for PDFs/Docs or \"Upload to Gallery\" for images/videos. Gallery uploads need a description and appear publicly after admin approval.</string>
+    <string name="faq_gallery_visibility_answer">Gallery uploads are reviewed by an admin. Once approved, they appear in the Gallery and may be shown on Home as previews.</string>
+    <string name="faq_supported_files_answer">Common images (JPG/PNG/GIF/BMP), videos (MP4/AVI/MOV), PDFs and Word documents are supported. Others may upload as \"other\".</string>
+    <string name="faq_theme_answer">Go to Settings and toggle the Theme switch. The app will recreate to apply the new theme.</string>
+    <string name="faq_update_account_answer">Open Settings and tap \"Update Account\" to change your name and phone number.</string>
+    <string name="faq_my_uploads_answer">In Settings, tap \"My Uploads &amp; Status\" to see your items and their approval status.</string>
+    <string name="faq_my_pending_requests_answer">In Settings, tap \"My Event Requests (Pending)\" to view your pending requests.</string>
+    <string name="faq_logout_answer">Open Settings and tap \"Logout\". This clears your session and returns to the login screen.</string>
+    <string name="faq_offline_cache_answer">The app caches data for offline use. Ensure you\'re online and revisit the screen to refresh. If needed, close and reopen the app.</string>
+    <string name="faq_gallery_open_answer">From Home, tap the Gallery card. Approved community media and temple photos appear there.</string>
+    <string name="faq_documents_view_answer">Open the Documents screen to browse or upload documents. Some documents may be tied to events.</string>
+    <string name="faq_contact_support_answer">Use the Help button in Settings for FAQs. For additional assistance, please speak to the temple office staff.</string>
+    <string name="faq_admin_access_answer">Only admin users can access the Admin Panel. Regular users won\'t see admin options.</string>
+    <string name="faq_website_answer">On the Home screen, tap \"Visit Website\" to open the site in your browser.</string>
+    <string name="faq_donations_handling_answer">Donations are via bank transfer using the details on the Donations screen. Use the copy icons for quick copying.</string>
+    <string name="faq_gallery_video_answer">Yes. MP4/AVI/MOV are supported. After upload, an admin reviews before it appears publicly.</string>
+    <string name="faq_login_required_answer">Yes. Login is required to access events, documents, gallery, bookings, and donations.</string>
+    <string name="faq_default_answer">I couldn\'t find an exact answer. Try asking about donations, events, bookings, or contact info.</string>
+    
+    
+</resources>

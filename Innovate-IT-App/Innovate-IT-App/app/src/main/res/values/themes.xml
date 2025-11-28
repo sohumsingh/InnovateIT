@@ -1,0 +1,120 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UmbiloTempleFrontEnd" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Updated brand colors -->
+        <item name="colorPrimary">@color/temple_orange</item>
+        <item name="colorPrimaryVariant">@color/temple_orange_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/temple_gold</item>
+        <item name="colorSecondaryVariant">@color/temple_gold_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:statusBarColor">@color/temple_orange_dark</item>
+        <item name="android:navigationBarColor">@color/temple_orange_dark</item>
+        
+        <!-- Sleek Modern Typography -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="fontFamily">sans-serif-light</item>
+        
+        <!-- Material Design 3 Shape -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Temple.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Temple.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Temple.LargeComponent</item>
+
+        <!-- Global button styles to avoid low-contrast white buttons in light mode -->
+        <item name="materialButtonStyle">@style/TempleButton</item>
+        <item name="materialButtonOutlinedStyle">@style/TempleButton.Outlined</item>
+    </style>
+
+    <style name="Theme.UmbiloTempleFrontEnd" parent="Base.Theme.UmbiloTempleFrontEnd" />
+    
+    <!-- Modern Shape Appearances -->
+    <style name="ShapeAppearance.Temple.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    
+    <style name="ShapeAppearance.Temple.MediumComponent" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    
+    <style name="ShapeAppearance.Temple.LargeComponent" parent="ShapeAppearance.MaterialComponents.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+    
+    <!-- Modern Button Styles -->
+    <style name="TempleButton" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/temple_gold</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="elevation">4dp</item>
+        <item name="android:paddingVertical">14dp</item>
+        <item name="android:paddingHorizontal">24dp</item>
+    </style>
+    
+    <style name="TempleButton.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/temple_gold</item>
+        <item name="android:textColor">@color/temple_gold</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="strokeWidth">2dp</item>
+    </style>
+    
+    <!-- Modern Card Styles -->
+    <style name="TempleCard" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">8dp</item>
+        <item name="cardBackgroundColor">@color/temple_gold</item>
+    </style>
+    
+    <style name="TempleCard.Outlined">
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/temple_gold</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="cardBackgroundColor">@android:color/transparent</item>
+    </style>
+    
+    <!-- Modern Input Field Style -->
+    <style name="TempleTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/temple_gold</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="hintTextColor">@color/temple_gold_dark</item>
+        <item name="boxCornerRadiusTopStart">16dp</item>
+        <item name="boxCornerRadiusTopEnd">16dp</item>
+        <item name="boxCornerRadiusBottomStart">16dp</item>
+        <item name="boxCornerRadiusBottomEnd">16dp</item>
+    </style>
+    
+    <!-- Typography Styles -->
+    <style name="TempleTextAppearance.Headline" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textColor">@color/temple_gold</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:letterSpacing">0.03</item>
+    </style>
+    
+    <style name="TempleTextAppearance.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+    
+    <style name="TempleTextAppearance.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/temple_gold_light</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <!-- Additional font mixes -->
+    <style name="TempleTextAppearance.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    
+    <!-- Bottom Navigation Active Indicator -->
+    <style name="App.Widget.BottomNavigationView.ActiveIndicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/temple_orange</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.Temple.SmallComponent</item>
+    </style>
+</resources>

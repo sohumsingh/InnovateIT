@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Gallery Icon -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M9,3L5,6.99H3V21C3,21.55 3.45,22 4,22H20C20.55,22 21,21.55 21,21V7H19V3H9M9,5H17V19H7V9H9V5M9,7V9H17V7H9Z"/>
+    <path
+        android:fillColor="#000000"
+        android:pathData="M9,11H11V13H9V11Z"/>
+    <path
+        android:fillColor="#000000"
+        android:pathData="M15,11H17V13H15V11Z"/>
+</vector>
+

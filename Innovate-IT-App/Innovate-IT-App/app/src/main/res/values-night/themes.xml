@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Night theme aligned with light theme to keep typography consistent -->
+    <style name="Base.Theme.UmbiloTempleFrontEnd" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Brand colors (inherit from light where relevant) -->
+        <item name="colorPrimary">@color/temple_orange</item>
+        <item name="colorPrimaryVariant">@color/temple_orange_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/temple_gold</item>
+        <item name="colorSecondaryVariant">@color/temple_gold_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Match typography exactly across modes -->
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="fontFamily">sans-serif-light</item>
+
+        <!-- Maintain component shapes -->
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.Temple.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.Temple.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.Temple.LargeComponent</item>
+
+        <!-- Keep buttons consistent in dark mode -->
+        <item name="materialButtonStyle">@style/TempleButton</item>
+        <item name="materialButtonOutlinedStyle">@style/TempleButton.Outlined</item>
+    </style>
+
+    <style name="Theme.UmbiloTempleFrontEnd" parent="Base.Theme.UmbiloTempleFrontEnd" />
+</resources>

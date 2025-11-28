@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient_home">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:fitsSystemWindows="true">
+
+        <!-- Reusable header card -->
+        <include layout="@layout/include_header_card" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fillViewport="false"
+            android:clipToPadding="false"
+            android:paddingBottom="120dp"
+            android:overScrollMode="always">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <!-- Search -->
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="16dp"
+                    app:startIconDrawable="@android:drawable/ic_menu_search"
+                    app:endIconMode="clear_text"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/etSearchGallery"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="Search gallery..." />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <!-- Gallery Grid -->
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/recyclerViewGallery"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp"
+                    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                    app:spanCount="2" />
+
+                <!-- Empty State -->
+                <TextView
+                    android:id="@+id/tvNoMedia"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="No media available yet.\nCheck back later!"
+                    android:textSize="16sp"
+                    android:textColor="@color/temple_yellow"
+                    android:gravity="center"
+                    android:padding="32dp"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+        </ScrollView>
+
+        <!-- Include the navigation bar -->
+        <include layout="@layout/navigation_bar" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+

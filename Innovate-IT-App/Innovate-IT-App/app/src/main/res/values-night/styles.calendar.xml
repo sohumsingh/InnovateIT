@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ensure calendar text is visible in dark mode -->
+    <style name="TextAppearance.CalendarDate" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/text_on_bg</item>
+    </style>
+
+    <style name="TextAppearance.CalendarWeekDay" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/text_on_bg</item>
+    </style>
+</resources>
+
+

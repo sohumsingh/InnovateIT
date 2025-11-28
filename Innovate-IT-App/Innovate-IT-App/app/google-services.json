@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "209788930619",
+    "project_id": "umbilotemple-f8c8f",
+    "storage_bucket": "umbilotemple-f8c8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209788930619:android:a078d638b710cbb92bea1e",
+        "android_client_info": {
+          "package_name": "com.example.umbilotemplefrontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209788930619-n3r5t8bc21qge1p5sbr8kvrdjpdedb8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umbilotemplefrontend",
+            "certificate_hash": "61b46b36d6e9b9517e97ad04fcff71ccb73a17de"
+          }
+        },
+        {
+          "client_id": "209788930619-3j2qat6mqkjalrjua13jearbhtdhojn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsflOLRXBBTz_eTd2RxgIPuERFcJZQovc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209788930619-3j2qat6mqkjalrjua13jearbhtdhojn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
